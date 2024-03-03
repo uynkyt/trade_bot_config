@@ -1,0 +1,22 @@
+{
+  "myListCoins": [
+    "BTC"
+  ],
+  "timeFrames": [
+    "4h",
+    "8h",
+    "12h",
+    "1d"
+  ],
+  "listPercent": [
+    110,
+    120,
+    130,
+    140
+  ],
+  "bb_period": 20,
+  "coin_delay": 2,
+  "percentLimit": 100,
+  "percentMax": 101,
+  "isNotify": false
+}
