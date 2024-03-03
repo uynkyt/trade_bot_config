@@ -17,7 +17,7 @@
   "bb_period": 20,
   "coin_delay": 2,
   "stdDev": 2,
-  "percentLimit": 100,
+  "percentLimit": 105,
   "percentMax": 101,
   "isNotify": false
 }
