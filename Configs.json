@@ -3,12 +3,12 @@
     "BTC"
   ],
   "timeFrames": {
-    "4h": 110,
-    "8h": 115,
-    "12h": 120,
-    "1d": 125
+    "2h": 110,
+    "4h": 115,
+    "6h": 120,
+    "8h": 125
   },
-  "bb_period": 20,
+  "bb_period": 7,
   "coin_delay": 5,
   "stdDev": 2,
   "percentLimit": 105,
