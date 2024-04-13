@@ -10,8 +10,8 @@
     "1d": 125
   },
   "bb_period": 20,
-  "coin_delay": 5,
   "stdDev": 2,
+  "coin_delay": 5,
   "percentLimit": 105,
   "percent": 101,
   "isNotify": false
