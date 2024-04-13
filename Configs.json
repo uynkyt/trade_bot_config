@@ -1,8 +1,7 @@
 {
   "numberCoins": 15,
   "myListCoins": [
-    "BTC",
-    "BTCDOM"
+    "BTC"
   ],
   "timeFrames": {
     "4h": 110,
