@@ -1,7 +1,8 @@
 {
   "numberCoins": 30,
   "myListCoins": [
-    "BTC"
+    "BTC",
+    "BTCDOM",
   ],
   "timeFrames": {
     "4h": 110,
@@ -12,7 +13,7 @@
   "bb_period": 20,
   "coin_delay": 5,
   "stdDev": 2,
-  "percentLimit": 107,
+  "percentLimit": 105,
   "percent": 100,
   "isNotify": false
 }
