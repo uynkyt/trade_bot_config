@@ -9,7 +9,7 @@
     "12h": 120,
     "1d": 125
   },
-  "bb_period": 20,
+  "bb_period": 14,
   "stdDev": 2,
   "coin_delay": 5,
   "percentLimit": 105,
