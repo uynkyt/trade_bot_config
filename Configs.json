@@ -10,7 +10,7 @@
     "1d": 120,
     "3d": 125
   },
-  "bb_period": 14,
+  "bb_period": 20,
   "stdDev": 2,
   "coin_delay": 5,
   "percentLimit": 110,
